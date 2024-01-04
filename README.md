@@ -17,8 +17,14 @@ Interview Algorithm practice
 - Searching algorithms
 
 ## Technologies & Tools:computer:
+- GIT
+- Ubuntu
+- VIM
+- VSCode
+- Python
+- C Language
 
-# Author
+## Author
 - Mohamed Shabaan Othman <a href="https://linkedin.com/in//mohammed-shabaan-othman-3392a2191" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Shabaan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/MohammedShaBaan" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Shabaan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://facebook.com/mohamed.uwk.5249" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Shabaan-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
